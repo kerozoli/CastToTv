@@ -9,7 +9,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Simple add-on to play streams from Gnoma Cast To Tv addon</summary>
+        <summary lang="en_GB">Simple add-on to play streams from Gnome Cast To Tv addon</summary>
         <description lang="en_GB"></description>
         <language></language>
         <platform>linux</platform>
